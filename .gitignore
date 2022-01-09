@@ -1,5 +1,8 @@
 driving.mp4
 video.mp4
+__pycache__
+Pangolin
+g2opy
 # Swap
 [._]*.s[a-v][a-z]
 !*.svg  # comment out if you don't need vector files
