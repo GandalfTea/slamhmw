@@ -1,5 +1,5 @@
 #### About
-Toy monocular SLAM implemntation for Creative Coding Practice M25723-2021/22-SMSEP
+Toy monocular SLAM implementation for Creative Coding Practice M25723-2021/22-SMSEP
 
 ![image](https://user-images.githubusercontent.com/58654842/148688380-3e9b2c8a-82b4-4930-a7bb-7766195d965a.png)
 
